@@ -83,3 +83,4 @@ public void test{
    Vốn dĩ trong android đã có sẵn bộ thư viện Junit dùng để test cho unitTest và instrumentTest, nay chúng ta lại sử dụng thêm bộ thư     viện thứ 3 là mockito test để thực hiện unitTest. Junit có các hàm để test rất mạnh nằm trong lớp `Assert` như `Assert.assertEqual()`,`Assert.assert.NotNull()`,`Assert.assertEqualArray()`...          
     Chúng ta hoàn toàn có thể sử dụng kết hợp các hàm trên để test.
     Các bạn có thể tham khảo thêm mokito test tại https://static.javadoc.io/org.mockito/mockito-core/2.8.47/org/mockito/Mockito.html
+    http://www.javaworld.com/article/2074508/core-java/mocks-and-stubs---understanding-test-doubles-with-mockito.html
