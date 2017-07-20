@@ -73,9 +73,10 @@ public void test{
      .when(user).someMethodVoid();
      
    ### Câu lệnh verify
-     Câu lệnh
-     
+   Câu lệnh
+     `
      verify(mockObject).someMethod();
+     `
      dùng để xác thực một đối tượng mockObject có thực thi hàm someMethod() lần nào hay không.
     
    ### Sử dụng các câu lệnh của Junit kết hợp để test
